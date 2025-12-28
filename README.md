@@ -1,3 +1,5 @@
+> No longer maintained. Succeeded by [Stremur](https://github.com/Stremio-Community/discord-bot).
+
 # Paulo
 Yet another discord bot.
 
